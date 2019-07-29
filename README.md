@@ -1,7 +1,9 @@
 # 小米刷机教程
 前期准备<br/>
 1.解BL锁：http://www.miui.com/unlock/index.html 
-2.下载官方刷机包<br/>
+<br/>
+2.下载官方刷机包
+<br/>
 国内版：https://www.miui.com/download.html
 波兰版：https://miuipolska.pl/download/ 
 国际/印度/欧盟/俄罗斯版：http://c.mi.com/oc/miuidownload/index 
