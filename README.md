@@ -2,12 +2,12 @@
 前期准备<br/>
 1.解BL锁：http://www.miui.com/unlock/index.html 
 <br/>
-2.下载官方刷机包
+2.下载官方线刷或卡刷包
 <br/>
 国内版：https://www.miui.com/download.html <br/>
 波兰版：https://miuipolska.pl/download/  <br/>
 国际/印度/欧盟/俄罗斯版：http://c.mi.com/oc/miuidownload/index  <br/>
-
+国内线刷版：http://www.miui.com/shuaji-393.html  <br/>
 
 
 
