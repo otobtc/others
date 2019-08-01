@@ -6,6 +6,7 @@
 波兰版：https://miuipolska.pl/download/  <br/>
 国际/印度/欧盟/俄罗斯版：http://c.mi.com/oc/miuidownload/index  <br/>
 国内线刷版：http://www.miui.com/shuaji-393.html  <br/>
+补充：正常刷机采用的是卡刷，线刷主要是卡刷出问题变砖后来救砖的！
 3.去各自品牌的论坛寻找自己手机型号对应的第三方REC（TWRP或其它） <br/>
 例如：红米note7 - http://www.miui.com/thread-21108605-1-1.html  <br/>
 
