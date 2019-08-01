@@ -67,7 +67,6 @@ CPU：博通 联发科
 <p>与 <code>super</code> 版所包含的 GApps 相同，但是在 Recovery 中引入了图形化界面，可以自行选择安装哪些 GApps。<br />
 The same as <code>super</code> version, but has GUI in recovery，you can choose what you want.<br />
 
-</script></p>
 <h1>super</h1>
 <p>包含了所有 GApps ，像韩语日语中文拼音中文注音输入法等。（请注意：如果你是用的是基于原生的 ROM ，本版本会替换相机，通讯录等等所有有关应用）<br />
 Include all of GApps, just like Google Korean(Japanese/Chinese/Zhuyin) Input. (NOTICE: If you use the ROM based on AOSP, this one will replace CAMERA, CONTACT app and so on.)<br />
