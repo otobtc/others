@@ -101,3 +101,5 @@ Include the basic Google Service Framework, but does not have other GApps.<br />
 <p>包含最迷你的 Google 服务框架，但由于框架并非完整，部分 GApps可能无法运行。<br />
 Include the MINI Google Service Framework. Because the framework is not complete, maybe some GApps will not work.<br />
 
+
+插线板：突破TC0601、小米插线板、公牛 GN-B303U 插线板
