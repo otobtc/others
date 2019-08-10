@@ -102,4 +102,4 @@ Include the basic Google Service Framework, but does not have other GApps.<br />
 Include the MINI Google Service Framework. Because the framework is not complete, maybe some GApps will not work.<br />
 
 
-插线板：突破TC0601、小米插线板、公牛 GN-B303U 插线板
+插线板：突破TC0601、小米插线板、公牛 GN-B303U 插线板、公牛GN-B6330
