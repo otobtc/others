@@ -25,7 +25,15 @@ of=/dev/block/bootdevice/by-name/frp
 
 
 
-
+com.android.vending
+com.google.android.apps.nexuslauncher
+com.google.android.gm.exchange
+com.google.android.gms
+com.google.android.gsf
+com.google.android.gsf.login
+com.google.android.instantapps.supervisor
+com.google.android.packageinstaller
+com.google.android.partnersetup
 
 
 # SSR订阅节点
