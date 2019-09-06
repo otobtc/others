@@ -25,15 +25,17 @@ of=/dev/block/bootdevice/by-name/frp
 
 
 
-com.android.vending
-com.google.android.apps.nexuslauncher
-com.google.android.gm.exchange
-com.google.android.gms
-com.google.android.gsf
-com.google.android.gsf.login
+谷歌全家桶下载方法：在apkmirror用下面关键词搜索
+
+com.android.vending（谷歌Play商店）
+com.google.android.gms（谷歌Play服务）
+com.google.android.gsf（谷歌服务框架）
+com.google.android.gsf.login（谷歌帐号管理程序）
+com.google.android.partnersetup（谷歌合作伙伴设置）
+com.google.android.packageinstaller（软件包安装程序）
+com.google.android.apps.nexuslauncher（Pixel Launcher）
+com.google.android.gm.exchange（exchange服务）
 com.google.android.instantapps.supervisor
-com.google.android.packageinstaller
-com.google.android.partnersetup
 
 
 # SSR订阅节点
