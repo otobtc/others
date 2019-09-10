@@ -27,15 +27,15 @@
 
 谷歌全家桶下载方法：在apkmirror用下面关键词搜索
 
-com.android.vending（谷歌Play商店）
-com.google.android.gms（谷歌Play服务）
-com.google.android.gsf（谷歌服务框架）
-com.google.android.gsf.login（谷歌帐号管理程序）
-com.google.android.partnersetup（谷歌合作伙伴设置）
-com.google.android.packageinstaller（软件包安装程序）
-com.google.android.apps.nexuslauncher（Pixel Launcher）
-com.google.android.gm.exchange（exchange服务）
-com.google.android.instantapps.supervisor
+com.android.vending（谷歌Play商店）  <br/>
+com.google.android.gms（谷歌Play服务）  <br/>
+com.google.android.gsf（谷歌服务框架）  <br/>
+com.google.android.gsf.login（谷歌帐号管理程序）  <br/>
+com.google.android.partnersetup（谷歌合作伙伴设置）  <br/>
+com.google.android.packageinstaller（软件包安装程序）  <br/>
+com.google.android.apps.nexuslauncher（Pixel Launcher）  <br/>
+com.google.android.gm.exchange（exchange服务）  <br/>
+com.google.android.instantapps.supervisor  <br/>
 
 
 # SSR订阅节点
