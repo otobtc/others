@@ -37,6 +37,14 @@ com.google.android.apps.nexuslauncher（Pixel Launcher）  <br/>
 com.google.android.gm.exchange（exchange服务）  <br/>
 com.google.android.instantapps.supervisor  <br/>
 
+https://www.lanzous.com/b474214  密码：qingqiu
+http://t.cn/AiCqrfnO 『BhVip』软件更新合集
+https://www.lanzous.com/b202139  诗仙阁软件合集
+https://www.lanzous.com/u/adminqizhu  新世界软件合集
+https://www.lanzous.com/u/ha16888?t  ha16888
+https://www.lanzous.com/b244238  jshgou
+https://www.lanzous.com/u/chudali  chudali
+https://www.lanzous.com/b474214 清秋暖冬
 
 # SSR订阅节点
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
