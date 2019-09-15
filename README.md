@@ -45,7 +45,7 @@ https://www.lanzous.com/u/ha16888?t  ha16888
 https://www.lanzous.com/b244238  jshgou
 https://www.lanzous.com/u/chudali  chudali
 https://www.lanzous.com/b474214 清秋暖冬
-
+https://www.lanzous.com/b818538  
 # SSR订阅节点
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
