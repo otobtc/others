@@ -19,7 +19,8 @@
 7.开刷前务必请退出小米账号/谷歌账号后再刷机，否则卡开机验证。  <br/>
 8.卡开机验证的解决办法：通过另一部手机或电脑分享VPN热点来实现登录。  <br/>
 9.root--在卡刷刷机包后顺便卡刷magisk。开机后发现root并没有成功，  <br/>
-10.在卡刷包里提取boot.img,然后安装，选择boot.img,然后重启rec,刷入magisk_patched.img镜像。  <br/>
+10.在卡刷包里提取boot.img,然后安装，选择boot.img,然后重启rec,安装右下角刷入镜像，
+   选boot，刷入magisk_patched.img镜像。然后按正常操作刷入magisk.zip 。  <br/>
 11.安装XP  <br/>
 
 
