@@ -2,9 +2,10 @@
 前期准备  <br/>
 1.解BL锁：http://www.miui.com/unlock/index.html   <br/>
 2.下载官方线刷或卡刷包  <br/>
-国内版：https://www.miui.com/download.html  <br/>
 波兰版：https://miuipolska.pl/download/  <br/>
-国际/印度/欧盟/俄罗斯版：http://c.mi.com/miuidownload/index  <br/>
+国内版：https://www.miui.com/download.html  <br/>
+波兰开发版：https://xiaomi.eu/community/  (推荐)<br/>
+国际/印度/欧盟/俄罗斯版：http://c.mi.com/miuidownload/index  (推荐国际和欧盟)<br/>
 国内线刷版：http://www.miui.com/shuaji-393.html  里面的教程可以下载线刷工具<br/>
 补充：正常刷机采用的是卡刷，线刷主要是卡刷出问题变砖后来救砖的！ <br/> 
   即：线刷包（以防意外救砖用）、卡刷包（即你要刷的ROM）<br/>
