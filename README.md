@@ -28,10 +28,10 @@ W大的包就是普通的国内开发版部分精简以及可选择安装，没�
    选boot，刷入magisk_patched.img镜像。然后按正常操作刷入magisk.zip 。  <br/>
 11.安装XP  <br/>
 
-
-
-
-谷歌全家桶下载方法：在apkmirror用下面关键词搜索
+<br/>
+<br/>
+<br/>
+谷歌全家桶下载方法：在apkmirror用下面关键词搜索 <br/>
 
 com.android.vending（谷歌Play商店） 1 <br/>
 com.google.android.gms（谷歌Play服务）2  <br/>
@@ -42,8 +42,9 @@ com.google.android.packageinstaller（软件包安装程序）  <br/>
 com.google.android.apps.nexuslauncher（Pixel Launcher）  <br/>
 com.google.android.gm.exchange（exchange服务）  <br/>
 com.google.android.instantapps.supervisor  <br/>
-
-电脑和安卓软件下载蓝奏云盘：
+<br/>
+<br/>
+电脑和安卓软件下载蓝奏云盘：<br/>
 https://www.lanzous.com/b474214  密码：qingqiu  <br/>
 http://pan.lanzou.com/u/%E5%BD%AA%E7%85%8Cqq1846055318 『BhVip』<br/>
 https://www.lanzous.com/b202139  诗仙阁软件合集  <br/>
