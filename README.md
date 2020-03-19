@@ -43,30 +43,19 @@ com.google.android.apps.nexuslauncher（Pixel Launcher）  <br/>
 com.google.android.gm.exchange（exchange服务）  <br/>
 com.google.android.instantapps.supervisor  <br/>
 
-https://www.lanzous.com/b474214  密码：qingqiu
-http://t.cn/AiCqrfnO 『BhVip』软件更新合集
-https://www.lanzous.com/b202139  诗仙阁软件合集
-https://www.lanzous.com/u/adminqizhu  新世界软件合集
-https://www.lanzous.com/u/ha16888?t  ha16888
-https://www.lanzous.com/b244238  jshgou
-https://www.lanzous.com/u/chudali  chudali
-https://www.lanzous.com/b474214 清秋暖冬
-https://www.lanzous.com/b818538  
-https://95.181.190.29/  
+https://www.lanzous.com/b474214  密码：qingqiu  <br/>
+http://t.cn/AiCqrfnO 『BhVip』软件更新合集      <br/>
+https://www.lanzous.com/b202139  诗仙阁软件合集  <br/>
+https://www.lanzous.com/u/adminqizhu  新世界软件合集  <br/>
+https://www.lanzous.com/u/ha16888?t  ha16888    <br/>
+https://www.lanzous.com/b244238  jshgou        <br/>
+https://www.lanzous.com/u/chudali  chudali     <br/>
+https://www.lanzous.com/b474214 清秋暖冬        <br/>
+https://www.lanzous.com/b818538               <br/>
+https://95.181.190.29/                        <br/>
 
 # SSR订阅节点
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-
-# SS和V2ray订阅节点
-
-
-
-
-# 可用SS&SSR&V2ray节点
-ssr://NDIuMi40My4xMDU6NDI1NTA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46Y2xVd2MyZDYvP3JlbWFya3M9VTFOU1ZFOVBURl9wcHBubXVLOHRXWFZsYmlCTWIyNW5JRVJwYzNSeWFXTjBPamd4JnByb3RvcGFyYW09TkRFek9reHBZbEJ6WldaSVdYaHFSbmQ1TlEmb2Jmc3BhcmFtPQ
-
-ssr://NDUuNzkuNjYuOTo0NDM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk9XUTJZMk5sWVdFek56TmlaakpqT0dGallqSXlaVFl3WWpaaE5UaGlaVFkvP3JlbWFya3M9VTFOU1ZFOVBURl9udm83bG03MHQ1WXFnNVlpcDU2YVA1YkM4NUxxYTViZWVPamsxJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
-
 
 # 路由器相关知识
 斐讯K2
