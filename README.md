@@ -53,6 +53,7 @@ https://www.lanzous.com/u/ha16888?t  ha16888    <br/>
 https://www.lanzous.com/b244238  jshgou        <br/>
 https://www.lanzous.com/u/chudali  chudali     <br/>
 https://www.lanzous.com/b818538               <br/>
+https://www.lanzous.com/b609827  蓝色飞扬   <br/>
 
 
 # SSR订阅节点
