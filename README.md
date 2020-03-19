@@ -33,26 +33,26 @@ W大的包就是普通的国内开发版部分精简以及可选择安装，没�
 
 谷歌全家桶下载方法：在apkmirror用下面关键词搜索
 
-com.android.vending（谷歌Play商店）  <br/>
-com.google.android.gms（谷歌Play服务）  <br/>
-com.google.android.gsf（谷歌服务框架）  <br/>
-com.google.android.gsf.login（谷歌帐号管理程序）  <br/>
+com.android.vending（谷歌Play商店） 1 <br/>
+com.google.android.gms（谷歌Play服务）2  <br/>
+com.google.android.gsf（谷歌服务框架） 3 <br/>
+com.google.android.gsf.login（谷歌帐号管理程序）4 <br/>
 com.google.android.partnersetup（谷歌合作伙伴设置）  <br/>
 com.google.android.packageinstaller（软件包安装程序）  <br/>
 com.google.android.apps.nexuslauncher（Pixel Launcher）  <br/>
 com.google.android.gm.exchange（exchange服务）  <br/>
 com.google.android.instantapps.supervisor  <br/>
 
+电脑和安卓软件下载蓝奏云盘：
 https://www.lanzous.com/b474214  密码：qingqiu  <br/>
-http://t.cn/AiCqrfnO 『BhVip』软件更新合集      <br/>
+http://pan.lanzou.com/u/%E5%BD%AA%E7%85%8Cqq1846055318 『BhVip』<br/>
 https://www.lanzous.com/b202139  诗仙阁软件合集  <br/>
 https://www.lanzous.com/u/adminqizhu  新世界软件合集  <br/>
 https://www.lanzous.com/u/ha16888?t  ha16888    <br/>
 https://www.lanzous.com/b244238  jshgou        <br/>
 https://www.lanzous.com/u/chudali  chudali     <br/>
-https://www.lanzous.com/b474214 清秋暖冬        <br/>
 https://www.lanzous.com/b818538               <br/>
-https://95.181.190.29/                        <br/>
+
 
 # SSR订阅节点
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
