@@ -56,8 +56,16 @@ https://www.lanzous.com/b818538               <br/>
 https://www.lanzous.com/b609827  蓝色飞扬   <br/>
 
 
-# SSR订阅节点
-ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+# 公益订阅节点
+ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray  （V2ray）<br/>
+ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub  （SS）<br/>
+ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub  （SSR）<br/>
+ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml  （Clash）<br/>
+ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf  （Surge）<br/>
+kitsunebi：https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub  （V2ray）要用kitsunebi专属App使用<br/>
+
+
+
 
 # 路由器相关知识
 斐讯K2
