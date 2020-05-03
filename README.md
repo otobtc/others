@@ -57,6 +57,7 @@ https://www.lanzous.com/b609827  蓝色飞扬   <br/>
 
 
 # 公益订阅节点
+miles： https://jiang.netlify.com  （V2ray）<br/>
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray  （V2ray）<br/>
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub  （SS）<br/>
 ssrsub：https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub  （SSR）<br/>
