@@ -136,5 +136,5 @@ Include the MINI Google Service Framework. Because the framework is not complete
 
 
 插线板：突破TC0601、小米插线板、公牛 GN-B303U 插线板、公牛GN-B6330
-插线板品牌：小米&青米&突破-爱国者（一伙的）、公牛（不太推荐，主要原因是为所欲为）、飞利浦&得力（贴牌的）
+插线板品牌：小米&青米&突破-爱国者（一伙的）、公牛（不太推荐，主要原因是为所欲为）、飞利浦&得力（贴牌的）<br />
 浏览器：Chrome|Brave|Via|<br />
