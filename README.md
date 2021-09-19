@@ -1,7 +1,11 @@
 # 小米刷机教程
 前期准备  <br/>
-1.解BL锁：http://www.miui.com/unlock/index.html   <br/>
-2.下载官方线刷或卡刷包  <br/>
+1.数据备份：备份手机内部存贮数据，SD卡的可以不备份。<br/>
+  钛备份：可备份应用程序和数据要root。 <br/>
+  MIUI备份：备份完成后，把备份后的文件夹都移动到电脑或者OTG U盘。<br/>
+2.退出账号：开刷前务必请退出小米账号/谷歌账号后再刷机，否则卡开机验证。同时关闭密码解锁、指纹解锁。 <br/>
+3.解BL锁：http://www.miui.com/unlock/index.html   <br/>
+4.下载官方线刷或卡刷包  <br/>
 波兰版：https://miuipolska.pl/download/  <br/>
 国内版：https://www.miui.com/download.html  <br/>
 波兰开发版：https://xiaomi.eu/community/  (推荐)下载安装包用手机下速度比电脑快<br/>
@@ -9,15 +13,13 @@
 国内线刷版：http://www.miui.com/shuaji-393.html  里面的教程可以下载线刷工具<br/>
 补充：正常刷机采用的是卡刷，线刷主要是卡刷出问题变砖后来救砖的！ <br/> 
   即：线刷包（以防意外救砖用）、卡刷包（即你要刷的ROM）<br/>
-3.去各自品牌的论坛寻找自己手机型号对应的第三方REC（或官方TWRP、橙狐、SHRP） <br/>
+5.去各自品牌的论坛寻找自己手机型号对应的第三方REC（或官方TWRP、橙狐、SHRP） <br/>
 例如：<br/>
      TWRP：https://twrp.me/Devices/  <br/>
      SHRP：https://sourceforge.net/projects/shrp/files/  <br/>
      橙狐OrangeFox：https://orangefox.download/zh-CN  <br/>
      微博@wzsx150：https://pan.hchl.top/#/s/oe4T4 密码：wzsx150 <br/>
-4.准备ROOT工具（Magisk或SuperSU卡刷包以及它们的卸载包） <br/>
-5.备份数据（推荐用钛备份）（备份好手机内部存贮数据，SD卡的可以不备份） <br/>
-6.开刷前务必请退出小米账号/谷歌账号后再刷机，否则卡开机验证。  <br/>
+6.准备ROOT工具（Magisk或SuperSU卡刷包以及它们的卸载包） <br/>
 7.基础知识：https://band.us/band/72801035/post/2892  <br/>
 ㊟ 版本升級可不雙清, 直刷即可;在卡刷Magisk. <br/>
 ㊟ 換版本時  (開發版⇌穩定版 或 國際版⇌陸版  互換), 建議三清刷入. <br/>
