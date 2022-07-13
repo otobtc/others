@@ -4,7 +4,7 @@
   钛备份：可备份应用程序和数据要root。 <br/>
   MIUI备份：备份完成后，把备份后的文件夹都移动到电脑或者OTG U盘。<br/>
 2.退出账号：开刷前务必请退出小米账号/谷歌账号后再刷机，否则卡开机验证。同时关闭密码解锁、指纹解锁。 <br/>
-3.解BL锁：http://www.miui.com/unlock/index.html   <br/>
+3.解BL锁：http://www.miui.com/unlock/index.html  前期准备-手机上绑定小米账号-MIUI版本按5下-更多设置-开发者选项-设备解锁-绑定账号和设备 <br/>
 4.下载官方线刷或卡刷包  <br/>
 波兰版：https://miuipolska.pl/download/  <br/>
 国内版：https://www.miui.com/download.html  <br/>
