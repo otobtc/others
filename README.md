@@ -4,11 +4,12 @@
   钛备份：可备份应用程序和数据要root。 <br/>
   MIUI备份：备份完成后，把备份后的文件夹都移动到电脑或者OTG U盘。<br/>
 2.退出账号：开刷前务必请退出小米账号/谷歌账号后再刷机，否则卡开机验证。同时关闭密码解锁、指纹解锁。 <br/>
-3.解BL锁：http://www.miui.com/unlock/index.html  前期准备-手机上绑定小米账号-MIUI版本按5下-更多设置-开发者选项-设备解锁-绑定账号和设备 <br/>
+3.解BL锁：http://www.miui.com/unlock/index.html  
+  前期准备：手机上绑定小米账号-MIUI版本按5下-更多设置-开发者选项-设备解锁-绑定账号和设备（挂7天，168小时） <br/>
 4.下载官方线刷或卡刷包  <br/>
 波兰版：https://miuipolska.pl/download/  <br/>
 国内版：https://www.miui.com/download.html  <br/>
-波兰开发版：https://xiaomi.eu/community/  (推荐)下载安装包用手机下速度比电脑快<br/>
+波兰开发版：https://xiaomi.eu/community/  (推荐)<br/>
 国际/印度/欧盟/俄罗斯版：http://c.mi.com/miuidownload/index  (推荐国际和欧盟)<br/>
 国内线刷版：http://www.miui.com/shuaji-393.html  里面的教程可以下载线刷工具<br/>
 补充：正常刷机采用的是卡刷，线刷主要是卡刷出问题变砖后来救砖的！ <br/> 
