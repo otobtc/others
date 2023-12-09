@@ -58,16 +58,7 @@ com.google.android.instantapps.supervisor  <br/>
 <br/>
 <br/>
 电脑和安卓软件下载蓝奏云盘：<br/>
-https://www.lanzous.com/b474214  密码：qingqiu  <br/>
-http://pan.lanzou.com/u/%E5%BD%AA%E7%85%8Cqq1846055318 『BhVip』<br/>
-https://www.lanzous.com/b202139  诗仙阁软件合集  <br/>
-https://www.lanzous.com/u/adminqizhu  新世界软件合集  <br/>
 https://www.lanzous.com/u/ha16888?t  ha16888    <br/>
-https://www.lanzous.com/b244238  jshgou        <br/>
-https://www.lanzous.com/u/chudali  chudali     <br/>
-https://www.lanzous.com/b818538               <br/>
-https://www.lanzous.com/b609827  蓝色飞扬   <br/>
-
 
 # 公益订阅节点
 miles： https://jiang.netlify.com  （V2ray）<br/>
